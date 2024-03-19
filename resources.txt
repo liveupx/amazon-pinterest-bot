@@ -1,0 +1,5 @@
+python3
+pip install pyautogui
+pip install pypiwin32
+pip install bs4
+pip install lxml
